@@ -1,26 +1,26 @@
 {
-  "name": "node-crud-login",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "dev": "nodemon src/"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "bcryptjs": "^2.4.3",
-    "connect-flash": "^0.1.1",
-    "express": "^4.16.2",
-    "express-handlebars": "^3.0.0",
-    "express-session": "^1.15.6",
-    "method-override": "^2.3.10",
-    "mongoose": "^5.0.2",
-    "passport": "^0.4.0",
-    "passport-local": "^1.0.0"
-  },
-  "devDependencies": {
-    "nodemon": "^1.14.11"
-  }
+    "name": "node-crud-login",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon src/"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "bcryptjs": "^2.4.3",
+        "connect-flash": "^0.1.1",
+        "express": "^4.16.2",
+        "express-handlebars": "^3.0.0",
+        "express-session": "^1.15.6",
+        "method-override": "^2.3.10",
+        "mongoose": "^5.0.2",
+        "passport": "^0.4.0",
+        "passport-local": "^1.0.0"
+    },
+    "devDependencies": {
+        "nodemon": "^1.18.6"
+    }
 }
